@@ -1,7 +1,7 @@
 //William Zammit U3A1 Waterloo S3
 //12/04/2024
-/* 
- * 
+/* Trust me, it works, no comments needed
+ * EASSSSY BABBBYYYY
  */
 
 import java.util.Scanner;
